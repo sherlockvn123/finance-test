@@ -1,0 +1,3 @@
+# Ignore finance data files
+transactions.csv
+__pycache__/
